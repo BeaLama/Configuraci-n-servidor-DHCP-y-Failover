@@ -1,6 +1,6 @@
 # Configuración servidor DHCP y Failover
 
-![DHCP](img/dhcp.png)
+![DHCP](img/dhcp1.png)
 
 En esta práctica está explicado paso a paso como configurar un servidor DHCP para dar servicio a un cliente a través de un servidor RELAY.
 
