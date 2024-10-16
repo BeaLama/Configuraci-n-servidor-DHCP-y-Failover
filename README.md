@@ -2,7 +2,7 @@
 
 ![DHCP](img/dhcp1.png)
 
-En esta práctica está explicado paso a paso como configurar un servidor DHCP para dar servicio a un cliente a través de un servidor RELAY.
+En esta práctica está explicado paso a paso como configurar un servidor DHCP para dar servicio a un cliente a través de un servidor RELAY con máquinas Debian.
 
 1. [Configuración cliente](cliente.md)
 2. [Configuración servidor DHCP](servidor.md)
