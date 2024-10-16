@@ -1,1 +1,3 @@
-# Configuraci-n-servidor-DHCP-y-Failover
+# Configuración servidor DHCP y Failover
+
+![DHCP](img/dhcp.png)
