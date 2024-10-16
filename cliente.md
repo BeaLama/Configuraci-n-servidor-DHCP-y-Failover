@@ -1,6 +1,6 @@
 # Configuración del CLIENTE
 
-- Antes de encender nuestra máquina, primero debemos cambiar el adaptador de red. Su adaptador tiene que estar en red interna. Le asignamos un nombre, por ejemplo Red2.
+- Antes de encender nuestra máquina, primero debemos cambiar el adaptador de red. Su adaptador tiene que estar en red interna. Le asignamos un nombre, por ejemplo red2.
 
 ![Red del cliente](img/redcliente.jpg)
 
