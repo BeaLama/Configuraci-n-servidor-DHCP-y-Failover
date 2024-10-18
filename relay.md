@@ -4,27 +4,27 @@
 
 - A continuación se nos abrirá en la pantalla una pestaña de color azul, en la primera pestaña debemos poner la ip de nuestro servidor DHCP.
 
-![relay1](Imagen15.jpg)
+![relay1](img/Imagen15.jpg)
 
 - En la siguiente pestaña debemos poner las interfaces de red que vamos a configurar, en este caso la enp0s3 y enp0s8.
 
-![relay2](Imagen16.jpg)
+![relay2](img/Imagen16.jpg)
 
 - En la siguiente pestaña no hay que añadir nada.
 
 - Una vez descargado y configurado el paquete, cerramos la máquina y cambiamos la configuración de red.
 
-![dhcp](Imagen17.jpg)
+![dhcp](img/Imagen17.jpg)
 
 Esta es la red del servidor DHCP.
 
-![client](Imagen18.jpg)
+![client](img/Imagen18.jpg)
 
 Esta es la red del cliente.
 
 - A continuación usamos el comando **nano /etc/network/interfaces** para configurar las redes de ambas máquinas (DHCP y cliente).
 
-![conf](Imagen19.jpg)
+![conf](img/Imagen19.jpg)
 
 Address en RELAY = Gateway en SERVIDOR y CLIENTE.
 
@@ -32,8 +32,8 @@ Address en RELAY = Gateway en SERVIDOR y CLIENTE.
 
 - Después de hacer un **ip a** para comprobar que ya tenemos las ips, nos vamos al archivo **/etc/sysctl.conf** para habilitar el forwarding, descomentamos la línea de ipv4 forward. (reenvío de paquetes).
 
-![forward](Imagen21.jpg)
+![forward](img/Imagen21.jpg)
 
 - Lo comrpobamos con el comando **sysctl -f /etc/sysctl.conf**
 
-![comp](Imagen20.jpg)
+![comp](img/Imagen20.jpg)
