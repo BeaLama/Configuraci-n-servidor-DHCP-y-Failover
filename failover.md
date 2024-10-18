@@ -4,7 +4,7 @@ La función de este servidor es ofrecer sus servicios cuando el servidor princip
 
 - Descargamos isc-dhcp-server
 
--- Cambiamos a red interna y le ponemos la misma que tiene SERVIDOR (red1). 
+~ Cambiamos a red interna y le ponemos la misma que tiene SERVIDOR (red1). 
 
 - Usamos el comando **nano /etc/network/interfaces** y le asignamos una ip estática.
 
