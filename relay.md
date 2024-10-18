@@ -36,4 +36,4 @@ Address en RELAY = Gateway en SERVIDOR y CLIENTE.
 
 - Lo comrpobamos con el comando **sysctl -f /etc/sysctl.conf**
 
-![comp](img/Imagen20.jpg)
+![comp](img/Imagen22.jpg)
