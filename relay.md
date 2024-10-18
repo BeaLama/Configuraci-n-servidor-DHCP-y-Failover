@@ -14,7 +14,7 @@
 
 - Una vez descargado y configurado el paquete, cerramos la máquina y cambiamos la configuración de red.
 
-![dhcp](img/Imagen17.jpg)
+![dhcp](img/Imagen17.png)
 
 Esta es la red del servidor DHCP.
 
