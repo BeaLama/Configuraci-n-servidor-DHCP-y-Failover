@@ -1,4 +1,4 @@
-#Configuración de servidor Failover
+# Configuración de servidor Failover
 
 La función de este servidor es ofrecer sus servicios cuando el servidor principal (DHCP) falle o de problemas.
 
