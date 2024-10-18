@@ -25,6 +25,7 @@ La función de este servidor es ofrecer sus servicios cuando el servidor princip
 - En el mismo archivo de antes añadimos lo siguiente:
 
 ![s](img/Imagen4.jpg)
+
 ![t](img/Imagen5.jpg)
 
 - Reiniciamos el servicio con **systemctl restart isc-dhcp-server**.
@@ -34,6 +35,7 @@ La función de este servidor es ofrecer sus servicios cuando el servidor princip
 - En el mismo archivo de antes añadimos lo siguiente:
 
 ![t](img/Imagen6.jpg)
+
 ![t](img/Imagen7.jpg)
 
 - Reiniciamos el servicio con **systemctl restart isc-dhcp-server**.
